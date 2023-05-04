@@ -1,2 +1,2 @@
 # Progra_I
-Ya tengo acces, gracias.
+Ya tengo acceso, gracias.
